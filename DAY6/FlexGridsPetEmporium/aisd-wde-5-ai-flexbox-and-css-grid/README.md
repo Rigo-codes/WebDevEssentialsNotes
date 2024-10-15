@@ -53,11 +53,11 @@ Now begin coding with the help of AI.
 ## 6. **Add HTML Boilerplate And Background Image**
 Now that you have your files set up, start by adding the basic HTML5 boilerplate and the basic structure for our web page including the background image.
 
-  - [ ] Ask AI to generate an HTML boilerplate for a webpage that includes a `header` with an `h1` tag, a `main` content area that includes a `p` tag, and a `footer`. The page should be titled 'FlexGrid's Pet Emporium' and linked to a CSS file. Please include a witty description for a pet store in the main content area, using a `p` tag with the class store-description.
+  - [x ] Ask AI to generate an HTML boilerplate for a webpage that includes a `header` with an `h1` tag, a `main` content area that includes a `p` tag, and a `footer`. The page should be titled 'FlexGrid's Pet Emporium' and linked to a CSS file. Please include a witty description for a pet store in the main content area, using a `p` tag with the class store-description.
 
-  - [ ] Now add the image named 'Background.jpg' as a background to the project. The background should cover the entire page, be centered, and have a no-repeat, fixed image property.
+  - [ x] Now add the image named 'Background.jpg' as a background to the project. The background should cover the entire page, be centered, and have a no-repeat, fixed image property.
 
-  - [ ] Copy all of the HTML boilerplate code provided by AI and paste it into your `index.html` file.
+  - [x ]x Copy all of the HTML boilerplate code provided by AI and paste it into your `index.html` file.
 
 **Explanation:**
 In this step, you can set up the basic structure of your webpage by asking AI to generate an HTML5 boilerplate, including a header and main content area, which you can then copy and paste into the index.html file.
@@ -65,8 +65,8 @@ In this step, you can set up the basic structure of your webpage by asking AI to
 ## 7. **Add Navigation Bar Code**
 In this step, you'll ask AI for help to add a navigation bar to your webpage that includes options for "Login," "Our Locations," and "Contact Us." 
 
-  - [ ]  You need `HTML` code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to the existing HTML boilerplate. The nav bar will be a black bar at the top once it is styled. 
-  - [ ] Open your `index.html` file. and locate the `<header>` tag. Paste the navigation bar code between the `<body>` and the `<header>` tags.
+  - [x ]  You need `HTML` code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to the existing HTML boilerplate. The nav bar will be a black bar at the top once it is styled. 
+  - [x ] Open your `index.html` file. and locate the `<header>` tag. Paste the navigation bar code between the `<body>` and the `<header>` tags.
 
 **Explanation:**
 This step introduces a navigation bar that will allow users to easily access key sections of your site. By placing the code between the <body> and <header> tags, you ensure that the navigation bar appears at the top of your webpage, making it prominent and user-friendly.

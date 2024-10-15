@@ -24,3 +24,50 @@ body::before {
     z-index: -1;
     /* Ensures the background stays behind other content */
 }
+
+/* Styling the navigation bar */
+nav {
+    background-color: #333;
+    /* Dark background for the nav bar */
+}
+
+nav ul {
+    list-style: none;
+    /* Removes bullet points from list */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    /* Horizontally aligns the nav items */
+    justify-content: flex-end;
+    /* Aligns the items to the right */
+}
+
+nav ul li {
+    margin: 0;
+    padding: 10px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    /* Removes underline from links */
+    color: white;
+    /* White text for the links */
+    font-size: 1.1em;
+    /* Increases font size */
+}
+
+nav ul li a:hover {
+    color: #f0a500;
+    /* Adds a hover effect (orange) */
+}
+
+/* Header styling to give some spacing */
+header h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Adding some padding to the main content area */
+main {
+    padding: 20px;
+}
