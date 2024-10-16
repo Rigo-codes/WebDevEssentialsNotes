@@ -75,7 +75,7 @@ This step introduces a navigation bar that will allow users to easily access key
 ## 8. **Add Pet Image Boxes Section**
 Now that you have a navigation bar, add 12 boxes for the pet photos with cute pet names and short personality descriptions.
 
-  - [ ] Ask for help to create `HTML` code adding a section under the main content area with 12 image boxes for pet photos. The photos are located in the assets/images folder. The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure this code uses a `<section>` tag with a class of "pet-gallery".  
+  - [x ] Ask for help to create `HTML` code adding a section under the main content area with 12 image boxes for pet photos. The photos are located in the assets/images folder. The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure this code uses a `<section>` tag with a class of "pet-gallery".  
   - [ ] Open your `index.html` file and locate the existing `<main>` tag. This tag should already contain the initial `<p>` tag with the business description.
   - [ ] Paste the code for the pet images `<section>` directly below the existing `<p>` tag inside the `<main>`. This will ensure that the pet image boxes section appears right after the business description.
   

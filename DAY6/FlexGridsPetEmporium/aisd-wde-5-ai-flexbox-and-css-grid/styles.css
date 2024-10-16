@@ -27,7 +27,7 @@ body::before {
 
 /* Styling the navigation bar */
 nav {
-    background-color: #333;
+    background-color: #8f81f6;
     /* Dark background for the nav bar */
 }
 
@@ -38,7 +38,7 @@ nav ul {
     padding: 0;
     display: flex;
     /* Horizontally aligns the nav items */
-    justify-content: flex-end;
+    justify-content: center;
     /* Aligns the items to the right */
 }
 
@@ -70,4 +70,41 @@ header h1 {
 /* Adding some padding to the main content area */
 main {
     padding: 20px;
+}
+
+.pet-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* 4 columns for the images */
+    gap: 10px;
+    /* Space between the images */
+    padding: 20px;
+}
+
+.image-box {
+    width: 100%;
+    overflow: hidden;
+}
+
+.image-box img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    /* Optional: Add rounded corners to images */
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .pet-gallery {
+        grid-template-columns: repeat(2, 1fr);
+        /* 2 columns on tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .pet-gallery {
+        grid-template-columns: 1fr;
+        /* 1 column on mobile devices */
+    }
 }
