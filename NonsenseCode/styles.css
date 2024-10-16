@@ -42,3 +42,30 @@ h1 {
     height: 150px;
     padding-left: 300px;
 }
+
+/* Default styles for large screens */
+.container {
+    background-color: blueviolet;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 75px;
+}
+
+/* Styles for tablets and smaller screens */
+@media (max-width: 1024px) {
+    .container {
+        width: 90%;
+        padding: 15px;
+        font-size: 16px;
+    }
+}
+
+/* Styles for mobile devices */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 10px;
+        font-size: 14px;
+    }
+}
