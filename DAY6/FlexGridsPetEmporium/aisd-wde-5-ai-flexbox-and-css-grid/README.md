@@ -85,9 +85,9 @@ In this step, you enhanced the webpage by adding a section that showcases 12 pet
 ## 9. **Add a Section for Location and Hours**
 Next, let's add a section for the location and hours. 
 
-- [ ] You now need HTML code to add a `section` for location and hours, including an address, phone number, and business hours. Give this section code a class of "location-hours"
-- [ ] Open your `index.html` file and locate the existing `<footer>` tag in your `index.html` file.
-- [ ] Paste the location and hours `section` code directly above the `<footer>` tag.
+- [ x] You now need HTML code to add a `section` for location and hours, including an address, phone number, and business hours. Give this section code a class of "location-hours"
+- [x ] Open your `index.html` file and locate the existing `<footer>` tag in your `index.html` file.
+- [ x] Paste the location and hours `section` code directly above the `<footer>` tag.
 
 **Explanation:**
 In this step, you're adding a section to your webpage that provides essential information about your business, including the location, contact details, and operating hours.
