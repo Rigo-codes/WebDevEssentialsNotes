@@ -136,8 +136,8 @@ In this step, you styled the `<h1>` page title using CSS making it big, bold, an
 ## 14.  **Style the Company Description `<p>` Tag**
 In this step, you'll style the company description `<p>` tag to ensure it is visually appealing and consistent with the overall design of the webpage.
 
-  - [ ] Provide CSS code to style the `<p>` tag with the class of store-description. The paragraph should be centered under the `<h1>` header and appear in a box with a transparent, lighter background color and a border around it. The box should adjust responsively with the screen size and include padding and margins for spacing.
-  - [ ] Open your `styles.css` file and paste the supplied CSS code for the `.store-description` class `<p>` tag next in the `styles.css` file.
+  - [ x] Provide CSS code to style the `<p>` tag with the class of store-description. The paragraph should be centered under the `<h1>` header and appear in a box with a transparent, lighter background color and a border around it. The box should adjust responsively with the screen size and include padding and margins for spacing.
+  - [ x] Open your `styles.css` file and paste the supplied CSS code for the `.store-description` class `<p>` tag next in the `styles.css` file.
 
 **Explanation:**
 In this step, you styled the .store-description `<p>` tag to appear centered under the `<h1>` header.
@@ -145,8 +145,8 @@ In this step, you styled the .store-description `<p>` tag to appear centered und
 ## 15. **Style the Pet Gallery Section**
 In this step, you'll style the Pet Gallery section by using CSS Grid to create a responsive layout for the pet photo boxes.
 
-  - [ ] Paste the code from the `index.html` file from the entire pet gallery section tags (`<section class="pet-gallery">` all your code `</section>`). Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
-  - [ ] You need CSS code to style the pet photo boxes in the `.pet-gallery` section.
+  - [ x] Paste the code from the `index.html` file from the entire pet gallery section tags (`<section class="pet-gallery">` all your code `</section>`). Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
+  - [ x] You need CSS code to style the pet photo boxes in the `.pet-gallery` section.
   I need all of the following included in the layout: 
      - use CSS grid
      - The pet name (`<h3>`) should be larger and positioned at the top in each box.
@@ -154,7 +154,7 @@ In this step, you'll style the Pet Gallery section by using CSS Grid to create a
      - Each box should have a border around it, and the photo should have a rule separating it from the description.
      - Ensure there are no more than 6 boxes per row. All boxes should have a white background and be responsive to browser size changes.
      - There should also be a small margin of space on the right and left side of the web page.
-  - [ ] Open your `styles.css` file and paste the new CSS code for the `.pet-gallery` section next in the `styles.css` file.
+  - [x ] Open your `styles.css` file and paste the new CSS code for the `.pet-gallery` section next in the `styles.css` file.
 
 **Explanation:**
 In this step, you focused on styling the Pet Gallery section by using CSS Grid to create a visually appealing and responsive layout for the pet photo boxes.  
@@ -162,7 +162,7 @@ In this step, you focused on styling the Pet Gallery section by using CSS Grid t
 ## 16. **Style the Location and Hours Section**
 In this step, you're focusing on styling the Location and Hours section by using the .location-hours class. 
 
-  - [ ] Provide me the CSS code to style the location and hours section. Use a `<section>` class of `location-hours` to style it. The section should be centered on the page with text aligned in the center. Ensure the background of the section is fully transparent, include extra spacing between lines of text, and add padding around the section. There should be no border around the section and any list items inside should not have dots (bullets). The content should be responsive to different screen sizes.
+  - [ x] Provide me the CSS code to style the location and hours section. Use a `<section>` class of `location-hours` to style it. The section should be centered on the page with text aligned in the center. Ensure the background of the section is fully transparent, include extra spacing between lines of text, and add padding around the section. There should be no border around the section and any list items inside should not have dots (bullets). The content should be responsive to different screen sizes.
   - [ ] Open your `styles.css` file and paste the supplied CSS code for the `.location-hours` class next in the `styles.css` file.
 
 **Explanation:**
@@ -171,7 +171,7 @@ In this step, you generated CSS code to style the Location and Hours section by 
 ## 17. **Style the Footer**
 Finally, you'll style the footer to ensure it stands out and complements the overall design.
 
-- [ ] You now need CSS code to style the footer. I need the footer to have a black background with white text. Ensure that the text is centered within the footer, and include padding around the content. The footer should be styled to be visually distinct and stand out from the rest of the page.
+- [x ] You now need CSS code to style the footer. I need the footer to have a black background with white text. Ensure that the text is centered within the footer, and include padding around the content. The footer should be styled to be visually distinct and stand out from the rest of the page.
 - [ ] Open your `styles.css` file and paste the supplied CSS code for the `footer` tag next in the `styles.css` file.
 
 **Explanation:**
@@ -180,15 +180,15 @@ In this step, you generated CSS code to style the footer with a black background
 ## 18. **Test the Results**
 In this step, you'll test your webpage in the browser to ensure it resembles the example and make any desired adjustments.
 
-- [ ] Test your `index.html` file in the browser now, you should see a web page that somewhat resembles the example at the top of this README.
-- [ ] Feel free to add more CSS and HTML, as well as tweak the current code. 
-- [ ] Customize and enhance your page and make it your own as you see fit. 
+- [ x] Test your `index.html` file in the browser now, you should see a web page that somewhat resembles the example at the top of this README.
+- [ x] Feel free to add more CSS and HTML, as well as tweak the current code. 
+- [ x] Customize and enhance your page and make it your own as you see fit. 
 
 **Explanation:**
 This final step is about verifying that the webpage functions and appears as intended, allowing you to make additional customizations and refinements to personalize and perfect your design.
 
 ## 19. **Commit and Push to Github**
- - [ ] Commit and push your work to Github.
+ - [ x] Commit and push your work to Github.
 
  # Conclusion 📄
 You can review this project with an AI assistant to help better understand your work.
