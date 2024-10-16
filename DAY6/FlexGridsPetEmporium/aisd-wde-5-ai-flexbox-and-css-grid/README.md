@@ -95,7 +95,7 @@ In this step, you're adding a section to your webpage that provides essential in
 ## 10. **Test your current progress**
 Review your progress by viewing the current unstyled webpage in the browser.
 
-- [ ] Open your index.html file in the browser and review the current progress
+- [x ] Open your index.html file in the browser and review the current progress
 
 The unstyled page should resemble something like this:
 ##
@@ -106,8 +106,8 @@ The unstyled page should resemble something like this:
 ## 11. **Add Basic Styles**
 Ask AI for help to add some CSS code to your `styles.css` file.
 
-  - [ ] Provide CSS code to set some basic styles, such as margin, padding, and box-sizing for all elements, and set a font for the body.
-  - [ ] Copy the CSS code  and paste it in your `styles.css` file.
+  - [ x] Provide CSS code to set some basic styles, such as margin, padding, and box-sizing for all elements, and set a font for the body.
+  - [ x] Copy the CSS code  and paste it in your `styles.css` file.
 
 **Explanation:**
 In this step, you're establishing the foundational styling for your webpage by setting universal styles for all elements. 
@@ -115,11 +115,11 @@ In this step, you're establishing the foundational styling for your webpage by s
 ## 12. **Style the Navigation Bar**
 Now you can style your Navigation bar for your project.
 
-  - [ ] Copy and paste the nav bar code from your `index.html` into an AI chat, include everything from <nav> to </nav>. Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
-  - [ ] You now need CSS code to style the header and navigation bar, making the nav bar full width, a black background, and locate it at the top of the page.
-  - [ ] The text should all be white in color. 
-  - [ ] Please use Flexbox to handle the layout and ensure any text is centered within the navigation bar. Make sure to use the navigation `HTML code` supplied previously for reference when building the CSS.
-  - [ ] Copy the CSS code provided by the AI and paste it next in the `styles.css` file.
+  - [ x] Copy and paste the nav bar code from your `index.html` into an AI chat, include everything from <nav> to </nav>. Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
+  - [x ] You now need CSS code to style the header and navigation bar, making the nav bar full width, a black background, and locate it at the top of the page.
+  - [x ] The text should all be white in color. 
+  - [ x] Please use Flexbox to handle the layout and ensure any text is centered within the navigation bar. Make sure to use the navigation `HTML code` supplied previously for reference when building the CSS.
+  - [x ] Copy the CSS code provided by the AI and paste it next in the `styles.css` file.
 
 **Explanation:**
 This step involves styling the navigation bar to make it full-width with a black background and centered white text, using Flexbox for layout.
@@ -127,8 +127,8 @@ This step involves styling the navigation bar to make it full-width with a black
 ## 13. **Style the h1 Page Title**
 In this step, you'll focus on styling the h1 page title to make it visually prominent and aligned with the overall design of the webpage.
  
-  - [ ] Provide CSS code to style the `<h1>` header.  The header should be big, bold, centered, and include a shadow effect.
-  - [ ] Open your `styles.css` file and paste the supplied CSS code for the `<h1>` header next in the file.
+  - [x ] Provide CSS code to style the `<h1>` header.  The header should be big, bold, centered, and include a shadow effect.
+  - [ x] Open your `styles.css` file and paste the supplied CSS code for the `<h1>` header next in the file.
 
 **Explanation:**
 In this step, you styled the `<h1>` page title using CSS making it big, bold, and centered.

@@ -175,3 +175,8 @@ main {
         font-size: 1.6em;
     }
 }
+
+h1 {
+    color: white;
+    text-shadow: 6px 6px 10px #8f81f6;
+}
