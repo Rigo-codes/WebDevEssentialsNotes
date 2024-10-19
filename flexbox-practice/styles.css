@@ -1,0 +1,40 @@
+body {
+    display: flex;
+}
+
+.container {
+    display: flex;
+
+    /* Main axis is horizontal */
+    height: 200px;
+
+}
+
+.item {
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 5px;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-evenly;
+    list-style: none;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+}
+
+.nav-list,
+li {
+    font-size: 2.5rem;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+
+    background-color: rgb(255, 170, 255)
+}
