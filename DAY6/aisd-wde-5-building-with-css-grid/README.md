@@ -45,7 +45,7 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 
 ## 3. **Add Body Content to HTML**
 
-- [ ] In `index.html` between the `<body> </body>` tags, add the following content:
+- [ x] In `index.html` between the `<body> </body>` tags, add the following content:
 
    ```html
        <h2>Basic Concepts of Grid Layout</h2>
