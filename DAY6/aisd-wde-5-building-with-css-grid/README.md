@@ -23,7 +23,7 @@ grid_layout_project
 ## 2. **Add HTML Boilerplate**
 Now that you have your files set up, start by adding the basic HTML5 boilerplate.
 
-- [ ] Open your currently empty `index.html` file and add the following code to it.
+- [x ] Open your currently empty `index.html` file and add the following code to it.
 
    ```html
    <!DOCTYPE html>
