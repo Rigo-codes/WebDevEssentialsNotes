@@ -94,7 +94,7 @@ These grid items will be styled and positioned using CSS Grid.
 
 ## 5. **Setting Up the Grid Layout:**
 
-- [ ] Add the following CSS to `styles.css` to create a responsive grid layout:
+- [ x] Add the following CSS to `styles.css` to create a responsive grid layout:
 
    ```css
    .grid-container {
@@ -125,7 +125,7 @@ These grid items will be styled and positioned using CSS Grid.
 
 ## 6. **Adding Colors to the Boxes**
 
-- [ ] Add the following CSS to `styles.css` to style the individual boxes:
+- [ x] Add the following CSS to `styles.css` to style the individual boxes:
 
    ```css
    .box1 {
@@ -155,7 +155,7 @@ These grid items will be styled and positioned using CSS Grid.
 ## 7. **Testing Your Layout**
 By resizing the browser window and adding more boxes, you can observe how the grid behaves across different screen sizes, ensuring that the layout remains consistent and functional on any device.
 
-- [ ] Resize the browser window to see how the grid adapts to different screen sizes.
+- [ x] Resize the browser window to see how the grid adapts to different screen sizes.
 - [ ] Copy and paste the HTML boxes a few more times to see the grid expand and wrap into the next line.
 - [ ] Resize the window to see the grid automatically resize. This step is crucial for testing the responsiveness of your grid layout.
 
