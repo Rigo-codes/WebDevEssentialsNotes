@@ -1,4 +1,4 @@
-# Building with CSS Grid
+ # Building with CSS Grid
 
 ![Screenshot of the project](assets/images/example.png)
 
@@ -16,9 +16,9 @@ grid_layout_project
 ## Instructions ✅
 
 ## 1. **Create the Project Folder and Files**
-- [ ] Create a folder named `grid_layout_project` to store all your project files.
-- [ ] Create a new HTML file named `index.html`. This will be your main HTML file.
-- [ ] Create a new CSS file named `styles.css`. This file will contain the CSS used to style your HTML content.
+- [x ] Create a folder named `grid_layout_project` to store all your project files.
+- [ x] Create a new HTML file named `index.html`. This will be your main HTML file.
+- [ x] Create a new CSS file named `styles.css`. This file will contain the CSS used to style your HTML content.
 
 ## 2. **Add HTML Boilerplate**
 Now that you have your files set up, start by adding the basic HTML5 boilerplate.
