@@ -19,7 +19,7 @@ h1 {
 .grid-container {
     display: grid;
     /* This defines a grid container */
-    grid-template-columns: repeat(auto-fill, minmax(150px, 4fr));
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     /* Creates responsive columns that fit the available space */
     gap: 10px;
     /* Adds a 10px gap between grid items */

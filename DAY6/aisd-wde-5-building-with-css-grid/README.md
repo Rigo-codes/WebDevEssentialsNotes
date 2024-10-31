@@ -157,10 +157,10 @@ By resizing the browser window and adding more boxes, you can observe how the gr
 
 - [ x] Resize the browser window to see how the grid adapts to different screen sizes.
 - [ ] Copy and paste the HTML boxes a few more times to see the grid expand and wrap into the next line.
-- [ ] Resize the window to see the grid automatically resize. This step is crucial for testing the responsiveness of your grid layout.
+- [ x] Resize the window to see the grid automatically resize. This step is crucial for testing the responsiveness of your grid layout.
 
 ## 8. **Commit and Push to Github**
-- [ ] Commit and push your work to Github.
+- [ x] Commit and push your work to Github.
 
 # Conclusion 📄
 
