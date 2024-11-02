@@ -24,7 +24,7 @@ bootstrap_basics/
 ## 2. **Add HTML Boilerplate**
 Now that you have your files set up, start by adding the basic HTML5 boilerplate.
 
-  - [ ] Open your currently empty `index.html` file and add the following code to it.
+  - [x ] Open your currently empty `index.html` file and add the following code to it.
 
 ```html
 <!DOCTYPE html>
@@ -46,7 +46,7 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 
 ## 3. **Add Bootstrap CDN**
 
-- [ ] To include Bootstrap in your project, add the following CDN link to the `<head>` of your `index.html` file:
+- [ x] To include Bootstrap in your project, add the following CDN link to the `<head>` of your `index.html` file:
 
 ```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -70,7 +70,7 @@ Your `<head>` section should now look like this:
 
 ## 4. **Add a Navbar**
 
-- [ ] To create a responsive navbar using Bootstrap, add the following code to your `index.html`, between the `<body> </body>` tags:
+- [x ] To create a responsive navbar using Bootstrap, add the following code to your `index.html`, between the `<body> </body>` tags:
 
 ```html
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -117,7 +117,7 @@ Your `<head>` section should now look like this:
 ## 5. **Add a Few Cards**
 Use Bootstrap's card component to display content. Each card should have an image, a title, some text, and a button. 
 
-- [ ] Add the following code to your `index.html`:
+- [x ] Add the following code to your `index.html`:
 
 ```html
 <div class="container my-5">
@@ -145,7 +145,7 @@ Use Bootstrap's card component to display content. Each card should have an imag
 
 ## 6. **Add a Form**
 
-- [ ] Below the cards, add a form using Bootstrap's form components:
+- [ x] Below the cards, add a form using Bootstrap's form components:
 
 ```html
 <div class="container my-5">
@@ -173,7 +173,7 @@ Use Bootstrap's card component to display content. Each card should have an imag
 
 ## 7. **Add Custom Styling**
 
-- [ ] You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
+- [ x] You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
 
 ```css
 body {
